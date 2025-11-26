@@ -1,0 +1,13 @@
+.gitigonre
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore fine-tuned model directory
+department_classifier/
+
+# Ignore results directory
+results/

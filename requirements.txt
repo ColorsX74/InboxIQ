@@ -1,0 +1,11 @@
+torch
+transformers[torch]
+datasets
+scikit-learn
+fastapi
+uvicorn
+tiktoken
+protobuf
+sentencepiece
+huggingface_hub[hf_xet]
+imaplib2

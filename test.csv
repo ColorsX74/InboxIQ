@@ -1,0 +1,21 @@
+text,label
+"I would like to know if you offer discounts for students.",0
+"Can you send me details about your enterprise solutions?",0
+"I want to place a small order for office chairs.",0
+"Please share the latest promotions available.",0
+"Do you provide free trials for your software?",0
+"My invoice is missing the tax information.",1
+"I was billed for services I didn’t request.",1
+"Can you confirm if my payment was processed?",1
+"My billing cycle seems incorrect, please fix it.",1
+"I need a duplicate copy of my last invoice.",1
+"I am applying for the HR assistant role.",2
+"Please confirm the probation period for new employees.",2
+"I want to know about relocation support options.",2
+"Can you share the salary range for the analyst position?",2
+"I am submitting my resume for the graduate program.",2
+"My internet connection keeps dropping every hour.",3
+"The company VPN disconnects frequently.",3
+"I need help installing the new software update.",3
+"My account was locked after multiple login attempts.",3
+"Can you troubleshoot the firewall configuration issue?",3

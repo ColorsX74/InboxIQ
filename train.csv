@@ -1,0 +1,113 @@
+text,label
+# 0 = Sales
+# 1 = Billing
+# 2 = HR
+# 3 = Support
+"I want to buy a product",0
+"I want to buy a new laptop from your store",0
+"I would like to know more about your product catalog and pricing.",0
+"Can you send me a quotation for bulk orders?",0
+"I want to purchase a new laptop from your store.",0
+"Do you offer discounts for corporate clients?",0
+"I am interested in upgrading my subscription plan.",0
+"Could you provide details about your latest promotions?",0
+"I want to buy software licenses for my team.",0
+"Please share the brochure for your services.",0
+"I need a demo of your product before purchase.",0
+"Can you arrange a meeting to discuss pricing?",0
+"I want to place an order for office equipment.",0
+"Do you sell accessories for laptops?",0
+"I am considering switching vendors, what are your offers?",0
+"Please send me the catalog of your new arrivals.",0
+"I want to know if you have a reseller program.",0
+"Can you provide a quote for 100 units?",0
+"I am interested in your enterprise solutions.",0
+"Do you have a trial version available?",0
+"I want to buy a subscription for cloud services.",0
+"Please send me the price list for your products.",0
+"I need to know if you ship internationally.",0
+"Can you provide warranty details for your products?",0
+"I want to purchase training materials for my staff.",0
+"Do you offer bundle deals for software?",0
+"I want to buy a new server from your company.",0
+"I need help with my invoice",1
+"My invoice shows the wrong amount",1
+"My invoice shows the wrong amount, please correct it.",1
+"I was charged twice for the same service.",1
+"Can you resend the receipt for my last payment?",1
+"My payment did not go through, can you check?",1
+"I need a copy of last month’s invoice.",1
+"Please update my billing address.",1
+"I want to change my payment method.",1
+"My credit card was declined, what should I do?",1
+"I was billed for a service I didn’t use.",1
+"Can you explain the charges on my account?",1
+"I need a breakdown of my monthly bill.",1
+"My invoice is missing some items.",1
+"I want to request a refund for overpayment.",1
+"Please send me the tax invoice for my purchase.",1
+"I was charged late fees incorrectly.",1
+"My subscription renewal was billed twice.",1
+"I need help with my billing statement.",1
+"Can you confirm if my payment was received?",1
+"My account shows pending charges, please clarify.",1
+"I want to update my VAT number on invoices.",1
+"Please correct the billing cycle for my account.",1
+"My invoice date is wrong, please fix it.",1
+"I need to reconcile my payment records.",1
+"Can you send me a duplicate invoice?",1
+"My billing shows services I didn’t request.",1
+"I’m applying for a job",2
+"I’m applying for the software engineer position",2
+"I am applying for the software engineer position.",2
+"Please find attached my CV for the HR department.",2
+"I want to know the status of my job application.",2
+"Can you confirm the interview schedule?",2
+"I am interested in the marketing manager role.",2
+"Please provide details about employee benefits.",2
+"I want to apply for an internship.",2
+"Can you share the job description for the analyst role?",2
+"I am submitting my resume for consideration.",2
+"Please confirm receipt of my application.",2
+"I want to know about training opportunities.",2
+"Can you explain the promotion process?",2
+"I am requesting leave for next month.",2
+"Please update my employment records.",2
+"I want to transfer to another department.",2
+"Can you provide the employee handbook?",2
+"I am interested in joining your graduate program.",2
+"Please confirm my onboarding schedule.",2
+"I want to know about career growth opportunities.",2
+"Can you share the salary range for the role?",2
+"I am applying for the HR assistant position.",2
+"Please confirm the probation period details.",2
+"I want to know about relocation support.",2
+"Can you provide details about health insurance?",2
+"I am submitting documents for background verification.",2
+"My internet is not working",3
+"My internet connection is down",3
+"My internet connection is down since yesterday.",3
+"The company VPN is not working properly.",3
+"I need help resetting my account password.",3
+"My email is not syncing with the server.",3
+"Can you fix the printer issue in my office?",3
+"My laptop is overheating frequently.",3
+"I need assistance with software installation.",3
+"My account was locked after multiple attempts.",3
+"Can you troubleshoot the Wi-Fi problem?",3
+"My system is showing error messages.",3
+"I need help configuring my email client.",3
+"My phone is not connecting to the company network.",3
+"Can you fix the slow performance of my PC?",3
+"My application keeps crashing.",3
+"I need support for setting up remote access.",3
+"My password reset link is not working.",3
+"Can you help with the antivirus update?",3
+"My headset is not working during calls.",3
+"I need assistance with video conferencing setup.",3
+"My software license expired unexpectedly.",3
+"Can you fix the issue with shared drives?",3
+"My account permissions are incorrect.",3
+"I need help with the backup system.",3
+"My system update failed, please assist.",3
+"Can you troubleshoot the firewall settings?",3
